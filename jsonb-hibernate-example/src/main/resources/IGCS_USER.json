@@ -1,0 +1,31 @@
+[
+  {
+    "user_name": "TestUserName1",
+    "user_type": "End-User",
+    "user_status": "Active",
+    "user_emp_type": "Full-Time",
+    "user_login": "TestUserName1",
+    "user_password": "35eee540-af7f-4342-a988-4f6c486147f6",
+    "user_email": "klinemunoz@geekmosis.com",
+    "user_create_by": "System",
+    "user_manager_name": "Keith Howard",
+    "user_deleted": null,
+    "user_address": {
+      "street": "Columbus Place",
+      "city": "San Deigo",
+      "state": "California",
+      "zipCode": 1000,
+      "country": "Cuba"
+    },
+    "user_phone": [
+      {
+        "type": "Office",
+        "number": "(882) 415-2724"
+      },
+      {
+        "type": "Mobile",
+        "number": "(857) 476-2230"
+      }
+    ]
+  }
+]
